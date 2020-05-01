@@ -41,3 +41,5 @@ python train.py --gpu_id 0 --npatch 2 --dataset 0 --nbit 64 --is_train True
 |8|0.7497|0.7782|0.7839|0.7984|
 |9|0.7497|0.7795|0.7876|0.8008|
 |10|0.7510|0.7831|0.7890|0.8061|
+### 6. Others
+The images of all datasets and pre-trained models should be stored in folder ./data/. And the trained models should be stored in ./results/cifar10/, ./results/nus-wide/, ./results/coco/ respectively.
